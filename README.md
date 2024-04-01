@@ -16,7 +16,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true" alt="Cryolitia's GitHub stats" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true" alt="Cryolitia's GitHub stats" />
   </picture>
   <picture align="center" height="200em">
     <source 
@@ -27,6 +27,20 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact" alt="Cryolitia's GitHub stats" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact" alt="Cryolitia's GitHub stats" />
+  </picture>
+</p>
+
+<p>
+  <picture align="center">
+    <source 
+      srcset="https://skillicons.dev/icons?i=androidstudio,blender,cs,cpp,cloudflare,git,idea,kotlin,latex,linux,nix,raspberrypi,rust,vscode&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://skillicons.dev/icons?i=androidstudio,blender,cs,cpp,cloudflare,git,idea,kotlin,latex,linux,nix,raspberrypi,rust,vscode"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://skillicons.dev/icons?i=androidstudio,blender,cs,cpp,cloudflare,git,idea,kotlin,latex,linux,nix,raspberrypi,rust,vscode" alt="Cryolitia's skills" />
   </picture>
 </p>
