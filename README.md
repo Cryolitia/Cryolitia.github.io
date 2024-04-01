@@ -31,16 +31,6 @@
   </picture>
 </p>
 
-<p>
-  <picture align="center">
-    <source 
-      srcset="https://skillicons.dev/icons?i=androidstudio,blender,cs,cpp,cloudflare,git,idea,kotlin,latex,linux,nix,raspberrypi,rust,vscode&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://skillicons.dev/icons?i=androidstudio,blender,cs,cpp,cloudflare,git,idea,kotlin,latex,linux,nix,raspberrypi,rust,vscode"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://skillicons.dev/icons?i=androidstudio,blender,cs,cpp,cloudflare,git,idea,kotlin,latex,linux,nix,raspberrypi,rust,vscode" alt="Cryolitia's skills" />
-  </picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,blender,cs,cpp,cloudflare,git,idea,kotlin,latex,linux,nix,raspberrypi,rust,vscode" />
 </p>
