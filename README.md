@@ -6,7 +6,27 @@
 - Using Raspberry Pi / Trying NixOS / Learning  Rust / [Ingress Resistance Agent](https://github.com/Cryolitia/Artworks/blob/main/BioCard_2019_v0.2.jpg)
 - PGP pubkey: [`1C3C 6547 538D 7152 310C 0EEA 84DD 0C01 30A5 4DF7`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x84dd0c0130a54df7)
 
-  <p>
+<p align="center">
+  <picture align="center" height="200em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
     <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true" alt="Cryolitia's GitHub stats" />
-    <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact" alt="Top Langs" />
-  </p>
+  </picture>
+  <picture align="center" height="200em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact" alt="Cryolitia's GitHub stats" />
+  </picture>
+</p>
