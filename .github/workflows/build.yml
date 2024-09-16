@@ -1,0 +1,56 @@
+name: "Build Website"
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
+
+      - name: Setup cachix
+        uses: cachix/cachix-action@v15
+        with:
+          name: cryolitia
+          extraPullNames: nix-community
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "$GITHUB_ACTOR"
+          git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git show -s
+
+      - name: Update OpenPGP
+        run: |
+          nix run github:cryolitia/pgp-sig2dot#pgp-sig2dot-graphviz -- -vv -k 1C3C6547538D7152310C0EEA84DD0C0130A54DF7  --gossip 1 --online -p > content/post/pgp/net.svg
+      
+      - name: Build
+        run: nix run nixpkgs#hugo -- --minify --enableGitInfo
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

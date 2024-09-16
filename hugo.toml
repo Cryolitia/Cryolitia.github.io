@@ -1,0 +1,112 @@
+baseURL = "https://cryolitia.github.io"
+languageCode = "zh-cn"
+title = "Cryolitia's blog"
+theme = "hugo-theme-stack"
+
+hasCJKLanguage = true
+
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/Cryolitia"
+
+[menu.social.params]
+icon = "brand-github"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+mainSections = ["post"]
+rssFullContent = true
+favicon = "/favicon.png"
+
+[params.footer]
+since = 2024
+customText = ""
+
+[params.dateFormat]
+published = "2006-01-02"
+lastUpdated = "2006-01-02"
+
+[params.sidebar]
+emoji = "🍥"
+subtitle = "一个惜字炉"
+
+[params.sidebar.avatar]
+enabled = true
+local = false
+src = "/img/avatar.png"
+
+[params.article]
+headingAnchor = false
+math = false
+toc = true
+readingTime = true
+
+[params.article.license]
+enabled = true
+default = "Licensed under CC BY-NC-SA 4.0"
+
+  ## Widgets
+  [[params.widgets.homepage]]
+  type = "search"
+
+  [[params.widgets.homepage]]
+  type = "archives"
+
+  [[params.widgets.homepage]]
+  type = "categories"
+
+  [[params.widgets.homepage]]
+  type = "tag-cloud"
+
+  [[params.widgets.page]]
+  type = "toc"
+
+[params.opengraph.twitter]
+site = ""
+card = "summary"
+
+[params.defaultImage.opengraph]
+enabled = false
+
+[params.colorScheme]
+toggle = true
+default = "auto"
+
+[params.imageProcessing.cover]
+enabled = true
+
+[params.imageProcessing.content]
+enabled = true
+
+## Comments
+[params.comments]
+enabled = false
+
+[permalinks]
+post = "/p/:slug/"
+page = "/:slug/"
+
+[related]
+includeNewer = true
+threshold = 60
+toLower = false
+
+  [[indices]]
+  name = "tags"
+  weight = 100
+
+  [[indices]]
+  name = "categories"
+  weight = 200
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+tabWidth = 4

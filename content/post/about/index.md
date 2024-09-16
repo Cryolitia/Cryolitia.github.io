@@ -1,3 +1,11 @@
+---
+title: About Me
+slug: about
+image: cover.jpg
+about: true
+weight: 1
+---
+
 - Transgender girl 🏳️‍⚧️
 - Android developer
 - [《世末歌者》 - 乐正绫](https://music.163.com/#/song?id=429460239)
