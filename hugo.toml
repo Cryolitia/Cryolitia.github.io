@@ -31,7 +31,7 @@ lastUpdated = "2006-01-02"
 
 [params.sidebar]
 emoji = "🍥"
-subtitle = "一个惜字炉"
+subtitle = "一个赛博惜字炉"
 
 [params.sidebar.avatar]
 enabled = true
