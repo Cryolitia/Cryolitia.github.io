@@ -13,6 +13,14 @@ url = "https://github.com/Cryolitia"
 [menu.social.params]
 icon = "brand-github"
 
+[[menu.social]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://mastodon.yuuta.moe/@Cryolitia"
+
+[menu.social.params]
+icon = "brand-mastodon"
+
 [markup.goldmark.renderer]
 unsafe = true
 
