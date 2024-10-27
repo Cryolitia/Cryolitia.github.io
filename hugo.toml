@@ -28,6 +28,7 @@ unsafe = true
 mainSections = ["post"]
 rssFullContent = true
 favicon = "/favicon.png"
+mastodon = "@Cryolitia@yuuta.moe"
 
 [params.footer]
 since = 2024
