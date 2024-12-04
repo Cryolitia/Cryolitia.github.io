@@ -3,6 +3,8 @@ title: 奉劝大家不要沉迷Linux
 description: Linux害人害己
 date: 2024-02-10
 image: cover.jpg
+categories: 
+  - 暴论
 ---
 
 使用Windows你只会拥有几米长的Steam库存，和大学室友通宵打游戏，度过一个充实快乐有很多朋友的大学生活；使用Linux，你只会拥有一邮箱的bug track和pr review，在 git bitsect 中度过一个又一个脱发猝死的夜晚，被路过的同学看到终端感叹一句，又有个装逼的黑客小子。
