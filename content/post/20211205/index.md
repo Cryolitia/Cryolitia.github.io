@@ -2,6 +2,8 @@
 title: 就读于山东省实验中学是什么感受?
 image: image.webp
 date: 2021-12-05
+categories: 
+  - Privilege 三部曲（三缺一）
 ---
 
 ## 序：我的实验
