@@ -17,8 +17,8 @@ weight: 1
 <p align="center">
   <img class="show-in-light" style="height: 180px;" align="center" src="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true" alt="Cryolitia's GitHub stats" />
   <img class="show-in-dark" style="height: 180px;" align="center" src="https://github-readme-stats.vercel.app/api?username=Cryolitia&include_all_commits=true&count_private=true&theme=nord" alt="Cryolitia's GitHub stats" />
-  <img class="show-in-light" style="height: 180px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact" alt="Cryolitia's GitHub stats" />
-  <img class="show-in-dark" style="height: 180px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact&theme=nord" alt="Cryolitia's GitHub stats" />
+  <img class="show-in-light" style="height: 180px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact&hide=markdown" alt="Cryolitia's GitHub stats" />
+  <img class="show-in-dark" style="height: 180px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryolitia&layout=compact&theme=nord&hide=markdown" alt="Cryolitia's GitHub stats" />
 </p>
 
 <p align="center">
