@@ -9,22 +9,30 @@ weight: 2
 
 ![image](nixos-phonecase.png)
 
-Related:
-
-- [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box)
-- [Isoheptane/arch-media-box](https://github.com/Isoheptane/arch-media-box)
-- [Litchi-Lab/archive/Phone Case](https://github.com/Litchi-Lab/archive/tree/main/Phone%20Case)
+[More Info](https://github.com/Cryolitia/artworks)
 
 ## Ingress Biocard
 
 ![image](BioCard_2019_v0.2.jpg)
 
-Template:
+[More Info](https://github.com/Cryolitia/artworks)
 
-- [BioCard模板存档 | Resistance Wuhan](https://whres.net/page/bio%E5%8D%A1%E6%A8%A1%E6%9D%BF%E5%AD%98%E6%A1%A3)
+## vector<Body, 3>
 
-Font:
+- 《world.execute(me);》翻填曲
+- 2025三体春晚单品
+- 2025.02.10 殿堂达成
 
-- [Exo 2](https://fonts.google.com/specimen/Exo+2)
-- [Sarasa Gothic](be5invis/Sarasa-Gothic)
-- [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
+<p>
+<iframe
+    style="
+        aspect-ratio: 16 / 9;
+        height: 100%;
+        width: 100%;"
+    src="//player.bilibili.com/player.html?isOutside=true&aid=113945012605306&bvid=BV1RKNAePEKD&cid=28206239273&p=1&autoplay=false"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true"></iframe>
+</p>
