@@ -6,7 +6,7 @@ about: true
 weight: 1
 ---
 
-- Non-binary gender 🏳️‍⚧️
+- Non-binary gender, Cyber catgirl 🏳️‍⚧️
 - [《世末歌者》 - 乐正绫](https://music.163.com/#/song?id=429460239)
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) maintainer, [Arch Linux RISC-V](https://github.com/felixonmars/archriscv-packages) intern
 - Using Raspberry Pi / Trying NixOS / Learning  Rust / [Ingress Resistance Agent](https://github.com/Cryolitia/Artworks/blob/main/BioCard_2019_v0.2.jpg)
