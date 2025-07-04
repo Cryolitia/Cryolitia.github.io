@@ -5,17 +5,27 @@ about: true
 weight: 2
 ---
 
-## NixOS Phone Case
-
-![image](nixos-phonecase.png)
-
-[More Info](https://github.com/Cryolitia/artworks)
+[More Info…](https://github.com/Cryolitia/artworks)
 
 ## Ingress Biocard
 
-![image](BioCard_2019_v0.2.jpg)
+![image](biocard/BioCard_v0.3.png)
 
-[More Info](https://github.com/Cryolitia/artworks)
+## 自设
+
+画师 [`@Pheeeeeny_Reu`](https://twitter.com/Pheeeeeny_Reu)
+
+### 骄傲月特别版
+
+![image](oc/頭像02cryolitia去框.png)
+
+### 业余无线电特别版
+
+![image](oc/oc頭像cryolitia2-3.png)
+
+## NixOS Phone Case
+
+![image](nixos-phonecase.png)
 
 ## vector<Body, 3>
 

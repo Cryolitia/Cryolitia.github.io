@@ -6,10 +6,10 @@ about: true
 weight: 1
 ---
 
-- Non-binary gender, Cyber catgirl 🏳️‍⚧️
+- 非二元酷儿，赛博猫娘 🏳️‍⚧️
+- Ingress Agent/HAM Rudio/maimaiDX
 - [《世末歌者》 - 乐正绫](https://music.163.com/#/song?id=429460239)
-- [Nixpkgs](https://github.com/NixOS/nixpkgs) maintainer, [Arch Linux RISC-V](https://github.com/felixonmars/archriscv-packages) intern
-- Using Raspberry Pi / Trying NixOS / Learning  Rust / [Ingress Resistance Agent](https://github.com/Cryolitia/Artworks/blob/main/BioCard_2019_v0.2.jpg)
+- NixOS是生活，Arch Linux是工作。当然也有许多其他的生活和工作~
 - PGP pubkey: [`1C3C 6547 538D 7152 310C 0EEA 84DD 0C01 30A5 4DF7`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x84dd0c0130a54df7)
 
 <p align="center">
