@@ -6,6 +6,16 @@ categories:
   - 演讲
 ---
 
+<div class="video-wrapper">
+    <iframe src="https://player.bilibili.com/player.html?as_wide=1&high_quality=1&page=1&bvid=BV1678tzzERj&p=3&t=1995&autoplay=false"
+            scrolling="no"
+            frameborder="no"
+            framespacing="0"
+            allowfullscreen="true"
+    >
+    </iframe>
+</div>
+
 ## 与上游依赖项补丁有关的耦合问题
 
 在deepin桌面环境（以下简称DDE）的项目开发过程中，我们用到了很多上游的依赖库，如 `polkit-qt` 。项目组在有些时候需要修改上游依赖库，以增加某些奇怪的功能，这往往也破坏了上游库的ABI兼容性，增加或修改了部分二进制库的函数签名。而这些功能并不是增强DDE用户体验的所必需的，也不必移植到其他的发行版中。
@@ -70,13 +80,3 @@ AOSC构建系统中严格的品质保证（QA）检查帮助我们发现了大�
 {{< code path = "static/p/aoscc2025/slide.typ" prefix = "typst" title = "幻灯片源码" >}}
 
 {{< vertical_images prefix="output/" count="15" suffix=".svg" >}}
-
-<div class="video-wrapper">
-    <iframe src="https://player.bilibili.com/player.html?as_wide=1&high_quality=1&page=1&bvid=BV1678tzzERj&p=3&t=1995"
-            scrolling="no"
-            frameborder="no"
-            framespacing="0"
-            allowfullscreen="true"
-    >
-    </iframe>
-</div>

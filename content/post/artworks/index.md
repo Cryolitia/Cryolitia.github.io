@@ -34,17 +34,3 @@ weight: 2
 - 2025.02.10 殿堂达成
 
 {{< bilibili BV1RKNAePEKD >}}
-
-<!-- <p>
-<iframe
-    style="
-        aspect-ratio: 16 / 9;
-        height: 100%;
-        width: 100%;"
-    src="//player.bilibili.com/player.html?isOutside=true&aid=113945012605306&bvid=BV1RKNAePEKD&cid=28206239273&p=1&autoplay=false"
-    scrolling="no"
-    border="0"
-    frameborder="no"
-    framespacing="0"
-    allowfullscreen="true"></iframe>
-</p> -->
