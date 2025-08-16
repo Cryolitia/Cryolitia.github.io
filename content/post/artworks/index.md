@@ -33,7 +33,9 @@ weight: 2
 - 2025三体春晚单品
 - 2025.02.10 殿堂达成
 
-<p>
+{{< bilibili BV1RKNAePEKD >}}
+
+<!-- <p>
 <iframe
     style="
         aspect-ratio: 16 / 9;
@@ -45,4 +47,4 @@ weight: 2
     frameborder="no"
     framespacing="0"
     allowfullscreen="true"></iframe>
-</p>
+</p> -->
