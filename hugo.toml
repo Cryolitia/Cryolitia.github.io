@@ -41,7 +41,7 @@ src = "/img/avatar.png"
 
 [params.article]
 headingAnchor = false
-math = false
+math = true
 toc = true
 readingTime = true
 
