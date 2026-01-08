@@ -33,7 +33,7 @@ jobs:
 
       - name: Update OpenPGP
         run: |
-          nix run github:cryolitia/nur-packages#pgp-sig2dot-graphviz --accept-flake-config -- -vv -k 1C3C6547538D7152310C0EEA84DD0C0130A54DF7  --gossip 1 --online -p > content/post/pgp/net.svg
+          nix run github:cryolitia/pgp-sig2dot#pgp-sig2dot-graphviz --accept-flake-config -- draw -k 1C3C6547538D7152310C0EEA84DD0C0130A54DF7 --gossip 1 --online -p > content/post/pgp/net.svg
       
       - name: Build
         run: nix run nixpkgs#hugo -- --minify --enableGitInfo
