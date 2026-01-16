@@ -372,17 +372,17 @@ DBSCAN是一种基于密度的聚类算法，其可以在不指定类别数量�
 
 |原因|数量|正则匹配|占比|
 |:--:|:--:|:---:|---:|
-|补丁失效|2464|Hunk #\d FAILED at|18.50%|
-|测试超时|380|TIMEOUT\s+[1-9]+|2.85%|
-|环境包缓存|198|is corrupted \(invalid or corrupted package \(PGP signature\)\)|1.49%|
-|GNU config过时|336|has failed to recognize\nthe operating system you are using|2.52%|
-|Rust依赖不支持|263|failed to run custom build command for|1.97%|
-|Rust上游平台特定|352|failed to run `rustc` to learn about target-specific information|2.64%|
-|x86_64特定SIMD优化|229|-msse|-mavx|immintrin.h|sse.h|avx.h|1.72%|
-|段错误|293|segementation fault|2.20%|
-|测试未通过|289|test failed|2.17%|
-|cmake配置出错|488|CMake Error at|3.66%|
-|网络问题|137|curl.*?( The requested URL|Connect)|1.03%|
+|补丁失效|2464|`Hunk #\d FAILED at`|18.50%|
+|测试超时|380|`TIMEOUT\s+[1-9]+`|2.85%|
+|环境包缓存|198|`is corrupted \(invalid or corrupted package \(PGP signature\)\)`|1.49%|
+|GNU config过时|336|`has failed to recognize\nthe operating system you are using`|2.52%|
+|Rust依赖不支持|263|`failed to run custom build command for`|1.97%|
+|Rust上游平台特定|352|``failed to run `rustc` to learn about target-specific information``|2.64%|
+|x86_64特定SIMD优化|229|`-msse\|-mavx\|immintrin.h\|sse.h\|avx.h`|1.72%|
+|段错误|293|`segementation fault`|2.20%|
+|测试未通过|289|`test failed`|2.17%|
+|cmake配置出错|488|`CMake Error at`|3.66%|
+|网络问题|137|`curl.*?( The requested URL\|Connect)`|1.03%|
 |其他|7892||59.24%|
 |总计|13321||100.00%|
 
