@@ -38,17 +38,6 @@ weight: 4
 
 ![](LIGHT.jpg)
 
-## 2025-07-31 湖北，武汉
-
-懒猫微服 \
-Raspberry Pi 5B，NixOS \
-中科龙梦福珑 2F6005 Loongson 2F \
-Mikrotik RB5009UG+S+IN，RouterOS \
-Mikrotik CRS305-1G-4S+IN，SwOS \
-鲲鹏台式机主板 D920S10，NixOS
-
-![](20250731_234121~2.JPG)
-
 ## 2025-09-14 湖北，武汉
 
 Radxa Q6A, NixOS \
@@ -56,3 +45,15 @@ GPD Win Max 2023, NixOS \
 联想小新 Pro 14, Arch Linux
 
 ![](20250914_091036~2.JPG)
+
+## 2025-02-04 湖北，武汉
+
+懒猫微服 \
+Raspberry Pi 5B，NixOS \
+中科龙梦福珑 2F6005 Loongson 2F \
+Mikrotik RB5009UG+S+IN，RouterOS \
+Mikrotik CRS305-1G-4S+IN，SwOS \
+Radxa Orion O6, NixOS \
+鲲鹏台式机主板 D920S10，NixOS
+
+![](photo_2026-02-04_04-57-26.jpg)
