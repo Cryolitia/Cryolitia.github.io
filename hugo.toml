@@ -33,11 +33,7 @@ lastUpdated = "2006-01-02"
 [params.sidebar]
 emoji = "🍥"
 subtitle = "一个赛博惜字炉"
-
-[params.sidebar.avatar]
-enabled = true
-local = false
-src = "/img/avatar.png"
+avatar = "/img/avatar.png"
 
 [params.article]
 headingAnchor = false
@@ -69,18 +65,9 @@ default = "Licensed under CC BY-NC-SA 4.0"
 site = ""
 card = "summary"
 
-[params.defaultImage.opengraph]
-enabled = false
-
 [params.colorScheme]
 toggle = true
 default = "auto"
-
-[params.imageProcessing.cover]
-enabled = true
-
-[params.imageProcessing.content]
-enabled = true
 
 ## Comments
 [params.comments]
